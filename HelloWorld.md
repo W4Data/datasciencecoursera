@@ -1,4 +1,2 @@
-datasciencecoursera
-===================
-
-Course Project: Setting up accounts > Create a repo called datasciencecoursera
+## This is a markdown file
+revised 2014-10-26
